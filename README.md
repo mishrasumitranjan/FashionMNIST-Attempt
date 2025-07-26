@@ -110,22 +110,22 @@ This design ensures the notebook remains **minimal**, focusing only on:
 
 **Training/Validation Accuracy vs. Loss Curve:**
 
-![Accuracy vs. Loss](.github/assets/Accuracy%20vs.%20Loss.png)
+![Accuracy vs. Loss](images/Accuracy%20vs.%20Loss.png)
 
 **Classification Report:**  
 The model achieved an accuracy of **89%**.
 
 **Confusion Matrix:**
 
-![Confusion Matrix](.github/assets/Confusion%20Matrix.png)
+![Confusion Matrix](images/Confusion%20Matrix.png)
 
 **ROC Curve:**
 
-![ROC Curve](.github/assets/ROC%20Curve.png)
+![ROC Curve](images/ROC%20Curve.png)
 
 **Label Comparison:**
 
-![Label Comparison](.github/assets/Label%20Comparison.png)
+![Label Comparison](images/Label%20Comparison.png)
 
 ---
 
